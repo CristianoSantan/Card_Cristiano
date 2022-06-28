@@ -1,0 +1,23 @@
+body {
+    height: 100vh;
+    background-color: #ff5722;
+}
+
+main {
+    width: 500px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+header {
+    background: url("https://miro.medium.com/max/2612/1*gEKel8alV2_7MjAMfJkVzA.jpeg");
+    background-size: cover;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    transform: translateY(-50%);
+    border: 8px solid white;
+}
